@@ -8,11 +8,14 @@ A partir do número, ele irá apontar o tribunal do processo e o endpoint da API
 - elaborado por Leonardo Marques Vilela - licença livre de uso do código (se for possível, dê os créditos).
 PRINT SCREEN
 Tela de consulta:
-![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/a6326ec1-23a6-4cfb-9723-889ddbd35283)
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/62519333-1dff-4df2-9054-cbcf3be78dc3)
+
 
 Tela de apresentação do resultado da consulta (acordeon fechado):
-![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/0d927f5d-67d4-4679-876a-ff97e0e04488)
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/c84730bf-a2ac-4abe-8241-d7d3e88a2125)
+
 
 Tela de apresentação do resultado da consulta com as movimentações do processo (acordeon aberto):
-![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/01de236c-7f16-4a1b-8a4f-fafce97f2bba)
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/ead5dd40-70b6-47e6-99c8-558f351279d5)
+
 
