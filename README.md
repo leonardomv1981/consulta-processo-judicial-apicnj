@@ -8,15 +8,21 @@ A partir do número, ele irá apontar o tribunal do processo e o endpoint da API
 - elaborado por Leonardo Marques Vilela - licença livre de uso do código (se for possível, dê os créditos).
 PRINT SCREEN
 Tela de consulta:
-![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/8f8bc61d-5882-4e33-a314-73c6db375298)
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/3f3835ca-4970-442b-a3d2-35544d3fb4bb)
 
+Tela com erro na verificação do código CNJ:
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/7df0c742-14ac-4522-a603-efca56a3f835)
+
+Tela com erro na verificação da API:
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/c4c8389e-a703-40b5-9aa5-98a8a48a84d3)
 
 
 Tela de apresentação do resultado da consulta (acordeon fechado):
-![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/c84730bf-a2ac-4abe-8241-d7d3e88a2125)
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/8e5ef54e-f8b1-4a39-ad9b-1ca4c7a91f13)
 
 
 Tela de apresentação do resultado da consulta com as movimentações do processo (acordeon aberto):
-![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/ead5dd40-70b6-47e6-99c8-558f351279d5)
+![image](https://github.com/leonardomv1981/consulta-processo-judicial-apicnj/assets/99840717/5365cd47-dde3-4898-807d-e3f73d6f9c3f)
+
 
 
