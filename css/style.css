@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    text-decoration: none;
+    background-color: #FFFFFF;
+}
+
+header {
+    padding-bottom: 15px;
+}
+
+p {
+    font-size: 1.2rem;
+    font-weight: 300;
+}
+
+.boxCentralizada {
+    background-color: black;
+    width: 30%;
+    border-radius: 25%;
+}
+
+.cartao {
+    padding: 0;
+}
+
+
