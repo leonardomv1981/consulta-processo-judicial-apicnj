@@ -23,7 +23,7 @@ Class ApicnjClass
             return ['erro' => "Erro! O número CNJ informado não é válido."];
             die;
         }
-        
+        $processo['tr'] = (int) substr($processo['numeroCNJ'], 14, 2);
         return $processo;
 
     }
