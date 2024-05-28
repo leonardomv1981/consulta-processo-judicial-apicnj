@@ -23,6 +23,8 @@ Class ApicnjClass
             return ['erro' => "Erro! O número CNJ informado não é válido."];
             die;
         }
+
+        $processo['tr'] = (int) substr($processo['numeroCNJ'], 14, 2);
         
         return $processo;
 
@@ -174,8 +176,6 @@ Class ApicnjClass
                 27 => ['link' => '', 'nome' => '']
             ],
         );
-
-
         // analisa se o tribunal tem API e está disponível. Se não estiver, retorna mensagem com erro.
         if (empty($tribunais[$data['j']][$data['tr']]['link'])) { 
             return ['erro' => "Erro! O Tribunal " . $tribunais[$data['j']][$data['tr']]['nome'] . " não possui API."];

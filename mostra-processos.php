@@ -8,8 +8,12 @@
             <?php
             if ($registros->_source->grau == 'G1') {
                 echo "1a instância - " . $registros->_source->classe->nome;
-            } else {
+            } else if ($registros->_source->grau == 'G2'){
                 echo "2a instância";
+            } else if ($registros->_source->grau == 'JE'){
+                echo "Juizado Especial";
+            } else {
+                echo "Não definido";
             }
             ?>
                 - Movimentação
