@@ -6,12 +6,13 @@
             <h2 class="accordion-header">
             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse<?php echo $contador ?>" aria-expanded="false" aria-controls="collapse<?php echo $contador ?>">
             <?php
+
             if ($registros->_source->grau == 'G1') {
-                echo "1a instância - " . $registros->_source->classe->nome;
+                echo "1a instância - " . $registros->_source->classe->nome . " " . $registros->_source->orgaoJulgador->nome;
             } else if ($registros->_source->grau == 'G2'){
-                echo "2a instância";
+                echo "2a instância - " . $registros->_source->orgaoJulgador->nome;
             } else if ($registros->_source->grau == 'JE'){
-                echo "Juizado Especial";
+                echo "Juizado Especial - " . $registros->_source->orgaoJulgador->nome;
             } else {
                 echo "Não definido";
             }
