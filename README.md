@@ -1,6 +1,6 @@
 # consulta-processo-judicial-apicnj
 
-Atualização em 2025: repositório com projeto em React: https://github.com/leonardomv1981/consultaCNJ-react/
+Atualização em 11/02/2026: repositório com projeto em React: https://github.com/leonardomv1981/consultaCNJ-react/
 
 
 Codigo em PHP + Jquery + bootstrap que utiliza a api pública do CNJ. 
