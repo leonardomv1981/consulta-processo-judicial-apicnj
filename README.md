@@ -1,4 +1,8 @@
 # consulta-processo-judicial-apicnj
+
+Atualização em 2025: repositório com projeto em React: https://github.com/leonardomv1981/consultaCNJ-react/
+
+
 Codigo em PHP + Jquery + bootstrap que utiliza a api pública do CNJ. 
 - O projeto tem como objetivo facilitar o uso da API pública do CNJ para consulta processual em ambito nacional. (documentação oficial em https://datajud-wiki.cnj.jus.br/api-publica/).
 - O projeto facilita o uso da api, não sendo necessário escolher o endpoint, bastando inserir o número do processo. 
